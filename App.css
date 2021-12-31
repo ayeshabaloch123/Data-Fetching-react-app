@@ -1,0 +1,42 @@
+
+.App{
+  height: 200px;
+  position: relative;
+
+}
+body{
+  margin:40px ;
+  padding: 150px;
+   text-align: center; 
+   overflow-x: hidden;
+  background-color: rgb(155, 49, 0);
+}
+
+.btn{
+ 
+  width: 100px;
+    height: 40px;
+    font-size: 15px;
+    position: absolute;
+  color: #fff;  
+    background-color: darkgreen;
+    top: 50%;
+  left: 60%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+     
+
+}
+.inputD{
+  
+  font-family:Arial;
+  border:#000 1px solid;
+  border-right:none;
+   padding: 10px; 
+  margin-right: 37px;
+  margin-top: 60px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  position:relative;
+  
+}
